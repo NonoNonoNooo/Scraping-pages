@@ -1,0 +1,10 @@
+I need a data scraping from the websites please provide a separate .xls file.
+
+BRIEF:
+1. Ireland’s National psychologists register:
+Please go to website:
+https://www.psychologicalsociety.ie/pd/?pd_s=&pd_d=&pd_areas_of_practice=&pd_language=Click search
+Please Scrape:
+1. Name
+2. Email
+3. Address
